@@ -8,3 +8,4 @@
 * Probability Calibration
 * Optimal Threshold
 * Brier Score, Matthew's Correlation Coefficient, Confusion Matrix,  McNemar's Test
+* LightGBM, Optuna Hyper-parameter Tuning, Feature Engineering
