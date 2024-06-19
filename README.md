@@ -1,7 +1,7 @@
 ## <div align="center">Probabilistic Classification: Credit Card Default Prediction
 
 ### Design Overview & Documentation
-* Design Overview & Design Documentation can be found [here](https://ani-dharmarajan.com/Probabilistic-Classification-Credit-Card-Default-Prediction-f3d8958b560d4f5480a91a91e1e89239).
+* Design Overview & Design Documentation can be found [here](https://www.datascienceportfol.io/ani_dharmarajan/projects/1).
 
 ### Key Concepts
 * Probabilistic Classification
